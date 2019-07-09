@@ -1,0 +1,5 @@
+
+VIQMUR = {
+	QMNUM:string  , URKAT:string, URGRP:string, URCOD:string, URNUM:string, URTXT:string                    
+	'000100820668', '5'         , 'RC22-DET'  , '0020'      , '1'         , 'loss of mass due to SN etching'
+}
